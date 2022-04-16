@@ -45,6 +45,7 @@ body{
 
 .display{
     background-color: rgb(21, 55, 38);
+    font-weight: bold;
     border: 2px solid black;
     border-radius: 5px;
     text-align: right;
