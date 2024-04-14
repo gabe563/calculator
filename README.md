@@ -1,3 +1,3 @@
 # Calculator
 
-Live Preview [here](https://foxysamu.github.io/calculator/)
+Live Preview [here](https://gabe563.github.io/calculator/)
